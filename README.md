@@ -1,0 +1,2 @@
+# Real time chat using php ratchet
+This is a websocket application that allows users to chat in real time. It uses PHP Ratchet library to create a websocket server. The server is responsible for broadcasting messages to all connected clients. The clients can send messages to the server which will then broadcast the message to all connected clients. 
